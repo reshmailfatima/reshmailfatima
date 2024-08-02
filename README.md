@@ -52,7 +52,6 @@ const Pakistani = {
   funFact: "I can write SQL queries faster than I can type my name! ⚡"
 };
 
-console.log(`Welcome to ${PakistaniDataEnthusiast.name}'s Data Universe!`);
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
