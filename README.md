@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Reshmail Fatima! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>CS Student at <a href="https://www.umt.edu.pk/">University of Management and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developemnet Intern at <a href="https://www.stewart.com/en/pk">Stewart Pakistan</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>CS Student at <a href="https://www.umt.edu.pk/">University of Management and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>IT Programmer Analyst at <a href="https://www.stewart.com/en/pk">Stewart Pakistan</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Reshmail](https://img.shields.io/badge/-reshmail-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reshmail-fatima-b79620227/)]
