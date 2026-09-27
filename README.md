@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Reshmail Fatima 👋</h1>
 
-<h3 align="center">AI Engineer @ Stewart Pakistan | Generative AI Specialist</h3>
+<h3 align="center">AI Engineer - Stewart Pakistan | Generative AI Specialist</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reshmail-fatima" target="_blank">
+  <a href="[https://www.linkedin.com/in/reshmail-fatima](https://www.linkedin.com/in/reshmail-fatima-b79620227/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:reshmailfatima89@gmail.com">
@@ -18,13 +18,13 @@
 
 I'm a Generative AI specialist building agentic AI systems and RAG pipelines for enterprise use cases at **Stewart Pakistan Private Limited**. I work across the modern LLM orchestration stack, design multi-agent workflows, and care a lot about responsible AI — evaluation, monitoring, and guardrails baked in from day one.
 
-I'm also the **Generative AI Lead** at Google Developer Groups on Campus (UMT), where I mentor students building AI-driven projects.
+I was the **Generative AI Lead** at Google Developer Groups on Campus (UMT) for the year 2025, where I mentored students building AI-driven projects.
 
 - 🔭 Currently building: multi-agent orchestration workflows & scalable RAG pipelines
 - 🌱 Currently exploring: responsible AI evaluation & guardrails
-- 🎓 BSCS, University of Management and Technology, Lahore — CGPA 3.80/4.0
+- 🎓 BSCS, University of Management and Technology, Lahore - CGPA 3.80/4.0
 - 💬 Ask me about: LLMs, AI Agents, RAG, Prompt Engineering
-- 🌐 Languages: Urdu (Native), English (Fluent), Turkish (Basic)
+- 🌐 Languages: Urdu (Native), English (Fluent), Turkish (Basic), German (Basic)
 
 ---
 
