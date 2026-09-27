@@ -13,43 +13,48 @@
 ```javascript
 const Pakistani = {
   name: "Reshmail Fatima",
-  title: "AI Engineer | Technical Content Creator",
+  title: "AI Engineer | Generative AI Specialist",
   location: "Lahore, Pakistan 🇵🇰",
-  
+
+  currentRole: {
+    position: "AI Engineer",
+    company: "Stewart Pakistan Private Limited",
+    focus: "Building agentic AI systems & RAG pipelines for enterprise use cases"
+  },
+
   skills: {
-    dataAnalysis: ["SQL", "Python", "R", "Power BI", "Tableau"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    programmingLanguages: ["Python","JavaScript", C++],
-    webTechnologies: ["HTML", "CSS", "Markdown"],
-    versionControl: ["Git", "GitHub"],
+    generativeAI: [
+      "LLMs", "Prompt Engineering", "RAG", "AI Agents",
+      "Embeddings", "Vector Databases"
+    ],
+    orchestration: ["LangChain", "LlamaIndex", "LangGraph", "CrewAI", "LangSmith"],
+    machineLearning: ["Scikit-learn", "TensorFlow", "PyTorch", "Model Evaluation", "Feature Engineering"],
+    dataTools: ["Pandas", "NumPy", "Matplotlib"],
+    deployment: ["FastAPI", "REST APIs"],
+    cloud: [
+      "Microsoft Azure", "Azure Web Apps", "Azure Functions",
+      "Azure AI Vision", "Azure Document Intelligence",
+      "Microsoft Bot Framework", "Microsoft Teams Toolkit"
+    ],
+    versionControl: ["Git", "GitHub"]
   },
-  
-  tools: [
-    "VS Code", "SQL Server Management Studio", "Jupyter Notebook",
-    "Azure Data Studio", "Docker"
-  ],
-  
-  communities: {
-    GDSC: "Google Developer Student Clubs - Core Member",
-    ACM: "Association for Computing Machinery - Member",
+
+  leadership: {
+    GDG: "Generative AI Lead - Google Developer Groups on Campus, UMT",
+    TA: "Machine Learning Teaching Assistant - UMT"
   },
-  
+
   currentFocus: [
-    "Mastering advanced SQL optimization techniques",
-    "Exploring machine learning algorithms for predictive analytics",
-    "Contributing to open-source data projects"
+    "Building multi-agent orchestration workflows",
+    "Exploring responsible AI: evaluation, monitoring & guardrails",
+    "Scaling RAG pipelines for domain-specific knowledge integration"
   ],
-  
-  challenge: "Pursuing an intensive Data Analyst and Machine Learning career path",
-  
-  writing: {
-    role: "Technical Content Writer",
-    experience: "3 years",
-    topics: ["Data Analysis", "SQL Best Practices", "Python for Data Science"],
-    platforms: ["Medium", "Dev.to", "Personal Blog"]
-  },
-  
-  funFact: "I can write SQL queries faster than I can type my name! ⚡"
+
+  education: "BSCS - University of Management and Technology, Lahore (CGPA 3.80/4.0)",
+
+  languages: ["Urdu (Native)", "English (Fluent)", "Turkish (Basic)"],
+
+  funFact: "I build AI agents that reason and act — while I mentor humans to do the same! ⚡"
 };
 
 ```
